@@ -1,0 +1,15 @@
+#header{
+	background-color: #91AC13;
+	padding: 20px;
+}
+
+#body{
+	background-color: #33AAA1;
+	padding: 20px;
+	height: 200px;
+}
+
+#footer{
+	background-color: #BADACC;
+	padding: 20px;
+}

@@ -1,0 +1,285 @@
+127.0.0.1 - - [05/Jun/2013:19:49:18 -0400] "GET / HTTP/1.1" 200 7
+[Wed Jun 05 19:49:18 2013] [error] [client 127.0.0.1] File does not exist: /Users/bradbeltowski/Sites/php.ssl1306.com/favicon.ico
+127.0.0.1 - - [05/Jun/2013:19:49:18 -0400] "GET /favicon.ico HTTP/1.1" 404 209
+127.0.0.1 - - [05/Jun/2013:20:26:28 -0400] "GET / HTTP/1.1" 200 77
+[Wed Jun 05 20:26:28 2013] [error] [client 127.0.0.1] File does not exist: /Users/bradbeltowski/Sites/php.ssl1306.com/favicon.ico
+127.0.0.1 - - [05/Jun/2013:20:26:28 -0400] "GET /favicon.ico HTTP/1.1" 404 209
+127.0.0.1 - - [05/Jun/2013:20:26:44 -0400] "GET / HTTP/1.1" 200 91
+[Wed Jun 05 20:26:45 2013] [error] [client 127.0.0.1] File does not exist: /Users/bradbeltowski/Sites/php.ssl1306.com/favicon.ico
+127.0.0.1 - - [05/Jun/2013:20:26:45 -0400] "GET /favicon.ico HTTP/1.1" 404 209
+127.0.0.1 - - [05/Jun/2013:20:27:02 -0400] "GET / HTTP/1.1" 200 92
+[Wed Jun 05 20:27:02 2013] [error] [client 127.0.0.1] File does not exist: /Users/bradbeltowski/Sites/php.ssl1306.com/favicon.ico
+127.0.0.1 - - [05/Jun/2013:20:27:02 -0400] "GET /favicon.ico HTTP/1.1" 404 209
+127.0.0.1 - - [05/Jun/2013:20:27:16 -0400] "GET / HTTP/1.1" 200 91
+[Wed Jun 05 20:27:16 2013] [error] [client 127.0.0.1] File does not exist: /Users/bradbeltowski/Sites/php.ssl1306.com/favicon.ico
+127.0.0.1 - - [05/Jun/2013:20:27:16 -0400] "GET /favicon.ico HTTP/1.1" 404 209
+127.0.0.1 - - [05/Jun/2013:20:27:39 -0400] "GET / HTTP/1.1" 200 94
+[Wed Jun 05 20:27:39 2013] [error] [client 127.0.0.1] File does not exist: /Users/bradbeltowski/Sites/php.ssl1306.com/favicon.ico
+127.0.0.1 - - [05/Jun/2013:20:27:39 -0400] "GET /favicon.ico HTTP/1.1" 404 209
+127.0.0.1 - - [05/Jun/2013:20:28:18 -0400] "GET / HTTP/1.1" 200 78
+[Wed Jun 05 20:28:18 2013] [error] [client 127.0.0.1] File does not exist: /Users/bradbeltowski/Sites/php.ssl1306.com/favicon.ico
+127.0.0.1 - - [05/Jun/2013:20:28:18 -0400] "GET /favicon.ico HTTP/1.1" 404 209
+127.0.0.1 - - [05/Jun/2013:20:30:01 -0400] "GET / HTTP/1.1" 200 75
+[Wed Jun 05 20:30:01 2013] [error] [client 127.0.0.1] File does not exist: /Users/bradbeltowski/Sites/php.ssl1306.com/favicon.ico
+127.0.0.1 - - [05/Jun/2013:20:30:01 -0400] "GET /favicon.ico HTTP/1.1" 404 209
+127.0.0.1 - - [05/Jun/2013:20:30:03 -0400] "GET / HTTP/1.1" 304 -
+[Wed Jun 05 20:30:03 2013] [error] [client 127.0.0.1] File does not exist: /Users/bradbeltowski/Sites/php.ssl1306.com/favicon.ico
+127.0.0.1 - - [05/Jun/2013:20:30:03 -0400] "GET /favicon.ico HTTP/1.1" 404 209
+127.0.0.1 - - [05/Jun/2013:20:33:00 -0400] "GET / HTTP/1.1" 304 -
+[Wed Jun 05 20:33:00 2013] [error] [client 127.0.0.1] File does not exist: /Users/bradbeltowski/Sites/php.ssl1306.com/favicon.ico
+127.0.0.1 - - [05/Jun/2013:20:33:00 -0400] "GET /favicon.ico HTTP/1.1" 404 209
+127.0.0.1 - - [05/Jun/2013:20:34:36 -0400] "GET / HTTP/1.1" 200 878
+127.0.0.1 - - [05/Jun/2013:20:34:36 -0400] "GET /icons/blank.gif HTTP/1.1" 200 148
+127.0.0.1 - - [05/Jun/2013:20:34:36 -0400] "GET /icons/folder.gif HTTP/1.1" 200 225
+127.0.0.1 - - [05/Jun/2013:20:34:36 -0400] "GET /icons/unknown.gif HTTP/1.1" 200 245
+[Wed Jun 05 20:34:36 2013] [error] [client 127.0.0.1] File does not exist: /Users/bradbeltowski/Sites/php.ssl1306.com/favicon.ico
+127.0.0.1 - - [05/Jun/2013:20:34:36 -0400] "GET /favicon.ico HTTP/1.1" 404 209
+127.0.0.1 - - [05/Jun/2013:20:34:41 -0400] "GET /index.php HTTP/1.1" 200 75
+[Wed Jun 05 20:34:41 2013] [error] [client 127.0.0.1] File does not exist: /Users/bradbeltowski/Sites/php.ssl1306.com/favicon.ico
+127.0.0.1 - - [05/Jun/2013:20:34:41 -0400] "GET /favicon.ico HTTP/1.1" 404 209
+[Wed Jun 05 20:34:44 2013] [error] [client 127.0.0.1] File does not exist: /Users/bradbeltowski/Sites/php.ssl1306.com/favicon.ico
+127.0.0.1 - - [05/Jun/2013:20:34:44 -0400] "GET /favicon.ico HTTP/1.1" 404 209
+[Wed Jun 05 20:34:45 2013] [error] [client 127.0.0.1] File does not exist: /Users/bradbeltowski/Sites/php.ssl1306.com/favicon.ico
+127.0.0.1 - - [05/Jun/2013:20:34:45 -0400] "GET /favicon.ico HTTP/1.1" 404 209
+127.0.0.1 - - [05/Jun/2013:20:35:59 -0400] "GET /index.php HTTP/1.1" 304 -
+[Wed Jun 05 20:36:00 2013] [error] [client 127.0.0.1] File does not exist: /Users/bradbeltowski/Sites/php.ssl1306.com/favicon.ico
+127.0.0.1 - - [05/Jun/2013:20:36:00 -0400] "GET /favicon.ico HTTP/1.1" 404 209
+127.0.0.1 - - [05/Jun/2013:20:36:02 -0400] "GET /index.php HTTP/1.1" 304 -
+[Wed Jun 05 20:36:02 2013] [error] [client 127.0.0.1] File does not exist: /Users/bradbeltowski/Sites/php.ssl1306.com/favicon.ico
+127.0.0.1 - - [05/Jun/2013:20:36:02 -0400] "GET /favicon.ico HTTP/1.1" 404 209
+[Wed Jun 05 20:36:31 2013] [error] [client 127.0.0.1] File does not exist: /Users/bradbeltowski/Sites/php.ssl1306.com/favicon.ico
+127.0.0.1 - - [05/Jun/2013:20:36:31 -0400] "GET /favicon.ico HTTP/1.1" 404 209
+127.0.0.1 - - [05/Jun/2013:20:36:32 -0400] "GET / HTTP/1.1" 200 878
+127.0.0.1 - - [05/Jun/2013:20:36:32 -0400] "GET /icons/blank.gif HTTP/1.1" 304 -
+127.0.0.1 - - [05/Jun/2013:20:36:32 -0400] "GET /icons/unknown.gif HTTP/1.1" 304 -
+127.0.0.1 - - [05/Jun/2013:20:36:32 -0400] "GET /icons/folder.gif HTTP/1.1" 304 -
+[Wed Jun 05 20:36:32 2013] [error] [client 127.0.0.1] File does not exist: /Users/bradbeltowski/Sites/php.ssl1306.com/favicon.ico
+127.0.0.1 - - [05/Jun/2013:20:36:32 -0400] "GET /favicon.ico HTTP/1.1" 404 209
+127.0.0.1 - - [05/Jun/2013:20:40:34 -0400] "GET / HTTP/1.1" 200 878
+127.0.0.1 - - [05/Jun/2013:20:40:34 -0400] "GET /icons/blank.gif HTTP/1.1" 304 -
+127.0.0.1 - - [05/Jun/2013:20:40:34 -0400] "GET /icons/unknown.gif HTTP/1.1" 304 -
+127.0.0.1 - - [05/Jun/2013:20:40:34 -0400] "GET /icons/folder.gif HTTP/1.1" 304 -
+[Wed Jun 05 20:40:34 2013] [error] [client 127.0.0.1] File does not exist: /Users/bradbeltowski/Sites/php.ssl1306.com/favicon.ico
+127.0.0.1 - - [05/Jun/2013:20:40:34 -0400] "GET /favicon.ico HTTP/1.1" 404 209
+127.0.0.1 - - [05/Jun/2013:20:40:43 -0400] "GET / HTTP/1.1" 200 878
+127.0.0.1 - - [05/Jun/2013:20:40:43 -0400] "GET /icons/unknown.gif HTTP/1.1" 304 -
+127.0.0.1 - - [05/Jun/2013:20:40:43 -0400] "GET /icons/blank.gif HTTP/1.1" 304 -
+127.0.0.1 - - [05/Jun/2013:20:40:43 -0400] "GET /icons/folder.gif HTTP/1.1" 304 -
+[Wed Jun 05 20:40:43 2013] [error] [client 127.0.0.1] File does not exist: /Users/bradbeltowski/Sites/php.ssl1306.com/favicon.ico
+127.0.0.1 - - [05/Jun/2013:20:40:43 -0400] "GET /favicon.ico HTTP/1.1" 404 209
+127.0.0.1 - - [05/Jun/2013:20:41:03 -0400] "GET / HTTP/1.1" 200 36
+[Wed Jun 05 20:41:03 2013] [error] [client 127.0.0.1] File does not exist: /Users/bradbeltowski/Sites/php.ssl1306.com/favicon.ico
+127.0.0.1 - - [05/Jun/2013:20:41:03 -0400] "GET /favicon.ico HTTP/1.1" 404 209
+127.0.0.1 - - [05/Jun/2013:20:41:22 -0400] "GET / HTTP/1.1" 200 50
+[Wed Jun 05 20:41:22 2013] [error] [client 127.0.0.1] File does not exist: /Users/bradbeltowski/Sites/php.ssl1306.com/favicon.ico
+127.0.0.1 - - [05/Jun/2013:20:41:22 -0400] "GET /favicon.ico HTTP/1.1" 404 209
+127.0.0.1 - - [05/Jun/2013:23:02:34 -0400] "GET / HTTP/1.1" 200 1489
+[Wed Jun 05 23:02:34 2013] [error] [client 127.0.0.1] File does not exist: /Users/bradbeltowski/Sites/php.ssl1306.com/favicon.ico
+127.0.0.1 - - [05/Jun/2013:23:02:34 -0400] "GET /favicon.ico HTTP/1.1" 404 209
+127.0.0.1 - - [05/Jun/2013:23:03:26 -0400] "GET / HTTP/1.1" 200 477
+127.0.0.1 - - [05/Jun/2013:23:03:26 -0400] "GET /css/style.css HTTP/1.1" 200 174
+[Wed Jun 05 23:03:26 2013] [error] [client 127.0.0.1] File does not exist: /Users/bradbeltowski/Sites/php.ssl1306.com/favicon.ico
+127.0.0.1 - - [05/Jun/2013:23:03:26 -0400] "GET /favicon.ico HTTP/1.1" 404 209
+127.0.0.1 - - [05/Jun/2013:23:06:44 -0400] "GET / HTTP/1.1" 200 492
+127.0.0.1 - - [05/Jun/2013:23:06:44 -0400] "GET /css/style.css HTTP/1.1" 304 -
+[Wed Jun 05 23:06:44 2013] [error] [client 127.0.0.1] File does not exist: /Users/bradbeltowski/Sites/php.ssl1306.com/favicon.ico
+127.0.0.1 - - [05/Jun/2013:23:06:44 -0400] "GET /favicon.ico HTTP/1.1" 404 209
+127.0.0.1 - - [05/Jun/2013:23:07:13 -0400] "GET / HTTP/1.1" 200 492
+127.0.0.1 - - [05/Jun/2013:23:07:13 -0400] "GET /css/style.css HTTP/1.1" 200 180
+[Wed Jun 05 23:07:13 2013] [error] [client 127.0.0.1] File does not exist: /Users/bradbeltowski/Sites/php.ssl1306.com/favicon.ico
+127.0.0.1 - - [05/Jun/2013:23:07:13 -0400] "GET /favicon.ico HTTP/1.1" 404 209
+127.0.0.1 - - [05/Jun/2013:23:12:16 -0400] "GET / HTTP/1.1" 200 492
+127.0.0.1 - - [05/Jun/2013:23:12:16 -0400] "GET /css/style.css HTTP/1.1" 304 -
+[Wed Jun 05 23:12:16 2013] [error] [client 127.0.0.1] File does not exist: /Users/bradbeltowski/Sites/php.ssl1306.com/favicon.ico
+127.0.0.1 - - [05/Jun/2013:23:12:16 -0400] "GET /favicon.ico HTTP/1.1" 404 209
+127.0.0.1 - - [05/Jun/2013:23:14:58 -0400] "GET / HTTP/1.1" 200 492
+127.0.0.1 - - [05/Jun/2013:23:14:58 -0400] "GET /css/style.css HTTP/1.1" 304 -
+[Wed Jun 05 23:14:58 2013] [error] [client 127.0.0.1] File does not exist: /Users/bradbeltowski/Sites/php.ssl1306.com/favicon.ico
+127.0.0.1 - - [05/Jun/2013:23:14:58 -0400] "GET /favicon.ico HTTP/1.1" 404 209
+127.0.0.1 - - [05/Jun/2013:23:15:02 -0400] "GET / HTTP/1.1" 200 492
+127.0.0.1 - - [05/Jun/2013:23:15:02 -0400] "GET /css/style.css HTTP/1.1" 304 -
+[Wed Jun 05 23:15:02 2013] [error] [client 127.0.0.1] File does not exist: /Users/bradbeltowski/Sites/php.ssl1306.com/favicon.ico
+127.0.0.1 - - [05/Jun/2013:23:15:02 -0400] "GET /favicon.ico HTTP/1.1" 404 209
+[Wed Jun 05 23:15:08 2013] [error] [client 127.0.0.1] File does not exist: /Users/bradbeltowski/Sites/php.ssl1306.com/favicon.ico
+127.0.0.1 - - [05/Jun/2013:23:15:08 -0400] "GET /favicon.ico HTTP/1.1" 404 209
+127.0.0.1 - - [05/Jun/2013:23:16:10 -0400] "GET / HTTP/1.1" 200 492
+127.0.0.1 - - [05/Jun/2013:23:16:10 -0400] "GET /css/style.css HTTP/1.1" 304 -
+[Wed Jun 05 23:16:10 2013] [error] [client 127.0.0.1] File does not exist: /Users/bradbeltowski/Sites/php.ssl1306.com/favicon.ico
+127.0.0.1 - - [05/Jun/2013:23:16:10 -0400] "GET /favicon.ico HTTP/1.1" 404 209
+127.0.0.1 - - [05/Jun/2013:23:16:13 -0400] "GET / HTTP/1.1" 200 492
+127.0.0.1 - - [05/Jun/2013:23:16:13 -0400] "GET /css/style.css HTTP/1.1" 304 -
+[Wed Jun 05 23:16:13 2013] [error] [client 127.0.0.1] File does not exist: /Users/bradbeltowski/Sites/php.ssl1306.com/favicon.ico
+127.0.0.1 - - [05/Jun/2013:23:16:13 -0400] "GET /favicon.ico HTTP/1.1" 404 209
+127.0.0.1 - - [05/Jun/2013:23:18:06 -0400] "GET / HTTP/1.1" 200 461
+127.0.0.1 - - [05/Jun/2013:23:18:06 -0400] "GET /css/style.css HTTP/1.1" 304 -
+[Wed Jun 05 23:18:06 2013] [error] [client 127.0.0.1] File does not exist: /Users/bradbeltowski/Sites/php.ssl1306.com/favicon.ico
+127.0.0.1 - - [05/Jun/2013:23:18:06 -0400] "GET /favicon.ico HTTP/1.1" 404 209
+127.0.0.1 - - [05/Jun/2013:23:18:43 -0400] "GET / HTTP/1.1" 200 460
+127.0.0.1 - - [05/Jun/2013:23:18:43 -0400] "GET /css/style.css HTTP/1.1" 304 -
+[Wed Jun 05 23:18:43 2013] [error] [client 127.0.0.1] File does not exist: /Users/bradbeltowski/Sites/php.ssl1306.com/favicon.ico
+127.0.0.1 - - [05/Jun/2013:23:18:43 -0400] "GET /favicon.ico HTTP/1.1" 404 209
+127.0.0.1 - - [05/Jun/2013:23:18:46 -0400] "GET / HTTP/1.1" 200 460
+127.0.0.1 - - [05/Jun/2013:23:18:46 -0400] "GET /css/style.css HTTP/1.1" 304 -
+[Wed Jun 05 23:18:46 2013] [error] [client 127.0.0.1] File does not exist: /Users/bradbeltowski/Sites/php.ssl1306.com/favicon.ico
+127.0.0.1 - - [05/Jun/2013:23:18:46 -0400] "GET /favicon.ico HTTP/1.1" 404 209
+127.0.0.1 - - [05/Jun/2013:23:19:10 -0400] "GET / HTTP/1.1" 200 208
+127.0.0.1 - - [05/Jun/2013:23:19:10 -0400] "GET /css/style.css HTTP/1.1" 304 -
+[Wed Jun 05 23:19:10 2013] [error] [client 127.0.0.1] File does not exist: /Users/bradbeltowski/Sites/php.ssl1306.com/favicon.ico
+127.0.0.1 - - [05/Jun/2013:23:19:10 -0400] "GET /favicon.ico HTTP/1.1" 404 209
+127.0.0.1 - - [05/Jun/2013:23:30:16 -0400] "GET / HTTP/1.1" 200 208
+127.0.0.1 - - [05/Jun/2013:23:30:16 -0400] "GET /css/style.css HTTP/1.1" 304 -
+[Wed Jun 05 23:30:16 2013] [error] [client 127.0.0.1] File does not exist: /Users/bradbeltowski/Sites/php.ssl1306.com/favicon.ico
+127.0.0.1 - - [05/Jun/2013:23:30:16 -0400] "GET /favicon.ico HTTP/1.1" 404 209
+127.0.0.1 - - [05/Jun/2013:23:46:13 -0400] "GET / HTTP/1.1" 200 208
+127.0.0.1 - - [05/Jun/2013:23:46:13 -0400] "GET /css/style.css HTTP/1.1" 304 -
+[Wed Jun 05 23:46:13 2013] [error] [client 127.0.0.1] File does not exist: /Users/bradbeltowski/Sites/php.ssl1306.com/favicon.ico
+127.0.0.1 - - [05/Jun/2013:23:46:13 -0400] "GET /favicon.ico HTTP/1.1" 404 209
+127.0.0.1 - - [06/Jun/2013:00:01:23 -0400] "GET / HTTP/1.1" 200 144
+[Thu Jun 06 00:01:23 2013] [error] [client 127.0.0.1] File does not exist: /Users/bradbeltowski/Sites/php.ssl1306.com/favicon.ico
+127.0.0.1 - - [06/Jun/2013:00:01:23 -0400] "GET /favicon.ico HTTP/1.1" 404 209
+127.0.0.1 - - [06/Jun/2013:00:02:31 -0400] "GET / HTTP/1.1" 200 144
+[Thu Jun 06 00:02:31 2013] [error] [client 127.0.0.1] File does not exist: /Users/bradbeltowski/Sites/php.ssl1306.com/favicon.ico
+127.0.0.1 - - [06/Jun/2013:00:02:31 -0400] "GET /favicon.ico HTTP/1.1" 404 209
+127.0.0.1 - - [06/Jun/2013:00:04:56 -0400] "GET / HTTP/1.1" 200 144
+[Thu Jun 06 00:04:57 2013] [error] [client 127.0.0.1] File does not exist: /Users/bradbeltowski/Sites/php.ssl1306.com/favicon.ico
+127.0.0.1 - - [06/Jun/2013:00:04:57 -0400] "GET /favicon.ico HTTP/1.1" 404 209
+127.0.0.1 - - [06/Jun/2013:00:11:31 -0400] "GET / HTTP/1.1" 200 144
+[Thu Jun 06 00:11:31 2013] [error] [client 127.0.0.1] File does not exist: /Users/bradbeltowski/Sites/php.ssl1306.com/favicon.ico
+127.0.0.1 - - [06/Jun/2013:00:11:31 -0400] "GET /favicon.ico HTTP/1.1" 404 209
+127.0.0.1 - - [06/Jun/2013:00:12:34 -0400] "GET / HTTP/1.1" 200 144
+[Thu Jun 06 00:12:34 2013] [error] [client 127.0.0.1] File does not exist: /Users/bradbeltowski/Sites/php.ssl1306.com/favicon.ico
+127.0.0.1 - - [06/Jun/2013:00:12:34 -0400] "GET /favicon.ico HTTP/1.1" 404 209
+127.0.0.1 - - [06/Jun/2013:00:13:49 -0400] "GET / HTTP/1.1" 200 144
+[Thu Jun 06 00:13:49 2013] [error] [client 127.0.0.1] File does not exist: /Users/bradbeltowski/Sites/php.ssl1306.com/favicon.ico
+127.0.0.1 - - [06/Jun/2013:00:13:49 -0400] "GET /favicon.ico HTTP/1.1" 404 209
+127.0.0.1 - - [06/Jun/2013:00:14:22 -0400] "GET / HTTP/1.1" 200 144
+[Thu Jun 06 00:14:22 2013] [error] [client 127.0.0.1] File does not exist: /Users/bradbeltowski/Sites/php.ssl1306.com/favicon.ico
+127.0.0.1 - - [06/Jun/2013:00:14:22 -0400] "GET /favicon.ico HTTP/1.1" 404 209
+127.0.0.1 - - [06/Jun/2013:00:16:06 -0400] "GET / HTTP/1.1" 200 -
+[Thu Jun 06 00:16:06 2013] [error] [client 127.0.0.1] File does not exist: /Users/bradbeltowski/Sites/php.ssl1306.com/favicon.ico
+127.0.0.1 - - [06/Jun/2013:00:16:06 -0400] "GET /favicon.ico HTTP/1.1" 404 209
+127.0.0.1 - - [06/Jun/2013:00:16:08 -0400] "GET / HTTP/1.1" 200 -
+[Thu Jun 06 00:16:08 2013] [error] [client 127.0.0.1] File does not exist: /Users/bradbeltowski/Sites/php.ssl1306.com/favicon.ico
+127.0.0.1 - - [06/Jun/2013:00:16:08 -0400] "GET /favicon.ico HTTP/1.1" 404 209
+127.0.0.1 - - [06/Jun/2013:00:17:12 -0400] "GET / HTTP/1.1" 200 209
+[Thu Jun 06 00:17:13 2013] [error] [client 127.0.0.1] File does not exist: /Users/bradbeltowski/Sites/php.ssl1306.com/favicon.ico
+127.0.0.1 - - [06/Jun/2013:00:17:13 -0400] "GET /favicon.ico HTTP/1.1" 404 209
+127.0.0.1 - - [06/Jun/2013:00:19:32 -0400] "GET / HTTP/1.1" 200 209
+[Thu Jun 06 00:19:32 2013] [error] [client 127.0.0.1] File does not exist: /Users/bradbeltowski/Sites/php.ssl1306.com/favicon.ico
+127.0.0.1 - - [06/Jun/2013:00:19:32 -0400] "GET /favicon.ico HTTP/1.1" 404 209
+127.0.0.1 - - [06/Jun/2013:00:20:57 -0400] "GET / HTTP/1.1" 200 209
+[Thu Jun 06 00:20:57 2013] [error] [client 127.0.0.1] File does not exist: /Users/bradbeltowski/Sites/php.ssl1306.com/favicon.ico
+127.0.0.1 - - [06/Jun/2013:00:20:57 -0400] "GET /favicon.ico HTTP/1.1" 404 209
+127.0.0.1 - - [06/Jun/2013:00:21:26 -0400] "GET / HTTP/1.1" 200 -
+[Thu Jun 06 00:21:26 2013] [error] [client 127.0.0.1] File does not exist: /Users/bradbeltowski/Sites/php.ssl1306.com/favicon.ico
+127.0.0.1 - - [06/Jun/2013:00:21:26 -0400] "GET /favicon.ico HTTP/1.1" 404 209
+127.0.0.1 - - [06/Jun/2013:00:25:37 -0400] "GET / HTTP/1.1" 200 259
+127.0.0.1 - - [06/Jun/2013:00:25:37 -0400] "GET /favicon.ico HTTP/1.1" 200 2
+127.0.0.1 - - [06/Jun/2013:00:26:37 -0400] "GET / HTTP/1.1" 200 274
+127.0.0.1 - - [06/Jun/2013:00:26:37 -0400] "GET /favicon.ico HTTP/1.1" 304 -
+127.0.0.1 - - [06/Jun/2013:00:26:51 -0400] "GET / HTTP/1.1" 200 443
+127.0.0.1 - - [06/Jun/2013:00:26:51 -0400] "GET /favicon.ico HTTP/1.1" 304 -
+127.0.0.1 - - [06/Jun/2013:00:27:49 -0400] "GET / HTTP/1.1" 200 729
+127.0.0.1 - - [06/Jun/2013:00:27:50 -0400] "GET /css/style.css HTTP/1.1" 304 -
+127.0.0.1 - - [06/Jun/2013:00:27:50 -0400] "GET /favicon.ico HTTP/1.1" 304 -
+127.0.0.1 - - [06/Jun/2013:00:28:06 -0400] "GET / HTTP/1.1" 200 219
+127.0.0.1 - - [06/Jun/2013:00:28:06 -0400] "GET /css/style.css HTTP/1.1" 304 -
+127.0.0.1 - - [06/Jun/2013:00:44:09 -0400] "GET / HTTP/1.1" 200 219
+127.0.0.1 - - [06/Jun/2013:00:44:09 -0400] "GET /css/style.css HTTP/1.1" 304 -
+127.0.0.1 - - [06/Jun/2013:00:44:10 -0400] "GET /favicon.ico HTTP/1.1" 304 -
+127.0.0.1 - - [06/Jun/2013:00:44:56 -0400] "GET / HTTP/1.1" 200 219
+127.0.0.1 - - [06/Jun/2013:00:44:56 -0400] "GET /css/style.css HTTP/1.1" 304 -
+127.0.0.1 - - [06/Jun/2013:00:45:43 -0400] "GET / HTTP/1.1" 200 219
+127.0.0.1 - - [06/Jun/2013:00:45:43 -0400] "GET /css/style.css HTTP/1.1" 304 -
+127.0.0.1 - - [06/Jun/2013:00:45:48 -0400] "GET / HTTP/1.1" 200 219
+127.0.0.1 - - [06/Jun/2013:00:45:48 -0400] "GET /css/style.css HTTP/1.1" 304 -
+127.0.0.1 - - [06/Jun/2013:01:02:48 -0400] "GET / HTTP/1.1" 200 219
+127.0.0.1 - - [06/Jun/2013:01:02:48 -0400] "GET /css/style.css HTTP/1.1" 304 -
+127.0.0.1 - - [06/Jun/2013:01:02:48 -0400] "GET /favicon.ico HTTP/1.1" 304 -
+127.0.0.1 - - [06/Jun/2013:01:02:50 -0400] "GET / HTTP/1.1" 200 219
+127.0.0.1 - - [06/Jun/2013:01:02:50 -0400] "GET /css/style.css HTTP/1.1" 304 -
+127.0.0.1 - - [06/Jun/2013:17:38:10 -0400] "GET / HTTP/1.1" 200 219
+127.0.0.1 - - [06/Jun/2013:17:38:10 -0400] "GET /css/style.css HTTP/1.1" 304 -
+127.0.0.1 - - [06/Jun/2013:17:38:10 -0400] "GET /favicon.ico HTTP/1.1" 304 -
+127.0.0.1 - - [16/Sep/2013:21:46:32 -0400] "GET / HTTP/1.1" 200 1925
+127.0.0.1 - - [16/Sep/2013:21:55:25 -0400] "GET / HTTP/1.1" 500 1266
+127.0.0.1 - - [16/Sep/2013:21:56:50 -0400] "GET / HTTP/1.1" 500 1266
+127.0.0.1 - - [16/Sep/2013:21:56:53 -0400] "GET / HTTP/1.1" 500 1266
+127.0.0.1 - - [16/Sep/2013:21:58:46 -0400] "GET / HTTP/1.1" 500 1266
+127.0.0.1 - - [16/Sep/2013:21:58:48 -0400] "GET / HTTP/1.1" 500 1266
+127.0.0.1 - - [16/Sep/2013:22:01:06 -0400] "GET / HTTP/1.1" 200 1645
+127.0.0.1 - - [16/Sep/2013:22:03:22 -0400] "GET / HTTP/1.1" 200 1645
+127.0.0.1 - - [16/Sep/2013:22:03:24 -0400] "GET / HTTP/1.1" 200 1645
+127.0.0.1 - - [16/Sep/2013:22:03:50 -0400] "GET / HTTP/1.1" 500 1266
+127.0.0.1 - - [16/Sep/2013:22:04:09 -0400] "GET / HTTP/1.1" 200 1645
+127.0.0.1 - - [16/Sep/2013:22:04:40 -0400] "GET / HTTP/1.1" 500 1266
+127.0.0.1 - - [16/Sep/2013:22:04:53 -0400] "GET / HTTP/1.1" 500 1266
+127.0.0.1 - - [16/Sep/2013:22:04:54 -0400] "GET / HTTP/1.1" 500 1266
+127.0.0.1 - - [16/Sep/2013:22:10:09 -0400] "GET / HTTP/1.1" 500 1266
+127.0.0.1 - - [16/Sep/2013:22:10:11 -0400] "GET / HTTP/1.1" 500 1266
+127.0.0.1 - - [16/Sep/2013:22:12:59 -0400] "GET / HTTP/1.1" 500 1266
+127.0.0.1 - - [16/Sep/2013:22:13:05 -0400] "GET / HTTP/1.1" 500 1266
+127.0.0.1 - - [16/Sep/2013:22:13:19 -0400] "GET / HTTP/1.1" 500 1266
+127.0.0.1 - - [16/Sep/2013:22:13:33 -0400] "GET / HTTP/1.1" 500 1266
+127.0.0.1 - - [16/Sep/2013:22:13:35 -0400] "GET / HTTP/1.1" 500 1266
+127.0.0.1 - - [16/Sep/2013:22:15:30 -0400] "GET / HTTP/1.1" 500 1266
+127.0.0.1 - - [16/Sep/2013:22:15:33 -0400] "GET / HTTP/1.1" 500 1266
+127.0.0.1 - - [16/Sep/2013:22:15:59 -0400] "GET / HTTP/1.1" 500 1266
+127.0.0.1 - - [16/Sep/2013:22:16:01 -0400] "GET / HTTP/1.1" 500 1266
+127.0.0.1 - - [16/Sep/2013:22:16:43 -0400] "GET / HTTP/1.1" 500 1266
+127.0.0.1 - - [16/Sep/2013:22:18:10 -0400] "GET / HTTP/1.1" 200 1925
+127.0.0.1 - - [16/Sep/2013:22:31:21 -0400] "GET / HTTP/1.1" 404 1175
+127.0.0.1 - - [16/Sep/2013:22:32:28 -0400] "GET / HTTP/1.1" 404 1175
+127.0.0.1 - - [16/Sep/2013:22:32:51 -0400] "GET / HTTP/1.1" 200 1925
+[Mon Sep 16 22:33:20 2013] [error] [client 127.0.0.1] File does not exist: /Users/bradbeltowski/Sites/asl.project.com/magazine
+127.0.0.1 - - [16/Sep/2013:22:33:20 -0400] "GET /magazine HTTP/1.1" 404 206
+[Mon Sep 16 22:33:37 2013] [error] [client 127.0.0.1] File does not exist: /Users/bradbeltowski/Sites/asl.project.com/magazine
+127.0.0.1 - - [16/Sep/2013:22:33:37 -0400] "GET /magazine HTTP/1.1" 404 206
+127.0.0.1 - - [16/Sep/2013:22:33:48 -0400] "GET /index.php/welcome HTTP/1.1" 200 1925
+127.0.0.1 - - [16/Sep/2013:22:33:53 -0400] "GET /index.php/magazine HTTP/1.1" 404 1175
+127.0.0.1 - - [16/Sep/2013:22:35:18 -0400] "GET /index.php/welcome HTTP/1.1" 200 1925
+127.0.0.1 - - [16/Sep/2013:22:35:25 -0400] "GET /index.php/magazine HTTP/1.1" 404 1175
+127.0.0.1 - - [16/Sep/2013:22:35:55 -0400] "GET /index.php/magazine HTTP/1.1" 200 18
+127.0.0.1 - - [16/Sep/2013:22:36:07 -0400] "GET /index.php/magazine HTTP/1.1" 200 22
+127.0.0.1 - - [16/Sep/2013:22:36:11 -0400] "GET / HTTP/1.1" 200 22
+[Mon Sep 16 22:41:56 2013] [error] [client 127.0.0.1] PHP Parse error:  syntax error, unexpected '<' in /Users/bradbeltowski/Sites/asl.project.com/application/views/magazines.php on line 2
+[Mon Sep 16 22:41:56 2013] [error] [client 127.0.0.1] PHP Stack trace:
+[Mon Sep 16 22:41:56 2013] [error] [client 127.0.0.1] PHP   1. {main}() /Users/bradbeltowski/Sites/asl.project.com/index.php:0
+[Mon Sep 16 22:41:56 2013] [error] [client 127.0.0.1] PHP   2. require_once() /Users/bradbeltowski/Sites/asl.project.com/index.php:202
+[Mon Sep 16 22:41:56 2013] [error] [client 127.0.0.1] PHP   3. call_user_func_array() /Users/bradbeltowski/Sites/asl.project.com/system/core/CodeIgniter.php:359
+[Mon Sep 16 22:41:56 2013] [error] [client 127.0.0.1] PHP   4. Magazine->index() /Users/bradbeltowski/Sites/asl.project.com/system/core/CodeIgniter.php:359
+[Mon Sep 16 22:41:56 2013] [error] [client 127.0.0.1] PHP   5. CI_Loader->view() /Users/bradbeltowski/Sites/asl.project.com/application/controllers/magazine.php:6
+[Mon Sep 16 22:41:56 2013] [error] [client 127.0.0.1] PHP   6. CI_Loader->_ci_load() /Users/bradbeltowski/Sites/asl.project.com/system/core/Loader.php:419
+127.0.0.1 - - [16/Sep/2013:22:41:56 -0400] "GET / HTTP/1.1" 200 2835
+[Mon Sep 16 22:42:10 2013] [error] [client 127.0.0.1] PHP Parse error:  syntax error, unexpected '<' in /Users/bradbeltowski/Sites/asl.project.com/application/views/magazines.php on line 2
+[Mon Sep 16 22:42:10 2013] [error] [client 127.0.0.1] PHP Stack trace:
+[Mon Sep 16 22:42:10 2013] [error] [client 127.0.0.1] PHP   1. {main}() /Users/bradbeltowski/Sites/asl.project.com/index.php:0
+[Mon Sep 16 22:42:10 2013] [error] [client 127.0.0.1] PHP   2. require_once() /Users/bradbeltowski/Sites/asl.project.com/index.php:202
+[Mon Sep 16 22:42:10 2013] [error] [client 127.0.0.1] PHP   3. call_user_func_array() /Users/bradbeltowski/Sites/asl.project.com/system/core/CodeIgniter.php:359
+[Mon Sep 16 22:42:10 2013] [error] [client 127.0.0.1] PHP   4. Magazine->index() /Users/bradbeltowski/Sites/asl.project.com/system/core/CodeIgniter.php:359
+[Mon Sep 16 22:42:10 2013] [error] [client 127.0.0.1] PHP   5. CI_Loader->view() /Users/bradbeltowski/Sites/asl.project.com/application/controllers/magazine.php:6
+[Mon Sep 16 22:42:10 2013] [error] [client 127.0.0.1] PHP   6. CI_Loader->_ci_load() /Users/bradbeltowski/Sites/asl.project.com/system/core/Loader.php:419
+127.0.0.1 - - [16/Sep/2013:22:42:10 -0400] "GET / HTTP/1.1" 200 2835
+127.0.0.1 - - [16/Sep/2013:22:42:18 -0400] "GET / HTTP/1.1" 200 21
+127.0.0.1 - - [16/Sep/2013:23:25:50 -0400] "GET / HTTP/1.1" 200 21
+127.0.0.1 - - [17/Sep/2013:10:47:19 -0400] "GET / HTTP/1.1" 200 21
+127.0.0.1 - - [25/Sep/2013:13:52:05 -0400] "GET / HTTP/1.1" 200 21
+[Wed Sep 25 19:41:24 2013] [error] [client 127.0.0.1] PHP Fatal error:  require(): Failed opening required 'php-sdk/facebook.php' (include_path='.:/usr/local/php5/lib/php') in /Users/bradbeltowski/Sites/asl.project.com/application/views/magazines.php on line 2
+[Wed Sep 25 19:41:24 2013] [error] [client 127.0.0.1] PHP Stack trace:
+[Wed Sep 25 19:41:24 2013] [error] [client 127.0.0.1] PHP   1. {main}() /Users/bradbeltowski/Sites/asl.project.com/index.php:0
+[Wed Sep 25 19:41:24 2013] [error] [client 127.0.0.1] PHP   2. require_once() /Users/bradbeltowski/Sites/asl.project.com/index.php:202
+[Wed Sep 25 19:41:24 2013] [error] [client 127.0.0.1] PHP   3. call_user_func_array() /Users/bradbeltowski/Sites/asl.project.com/system/core/CodeIgniter.php:359
+[Wed Sep 25 19:41:24 2013] [error] [client 127.0.0.1] PHP   4. Magazine->index() /Users/bradbeltowski/Sites/asl.project.com/system/core/CodeIgniter.php:359
+[Wed Sep 25 19:41:24 2013] [error] [client 127.0.0.1] PHP   5. CI_Loader->view() /Users/bradbeltowski/Sites/asl.project.com/application/controllers/magazine.php:6
+[Wed Sep 25 19:41:24 2013] [error] [client 127.0.0.1] PHP   6. CI_Loader->_ci_load() /Users/bradbeltowski/Sites/asl.project.com/system/core/Loader.php:419
+[Wed Sep 25 19:41:24 2013] [error] [client 127.0.0.1] PHP   7. include() /Users/bradbeltowski/Sites/asl.project.com/system/core/Loader.php:833
+127.0.0.1 - - [25/Sep/2013:19:41:24 -0400] "GET / HTTP/1.1" 200 3624
+127.0.0.1 - - [25/Sep/2013:19:42:03 -0400] "GET / HTTP/1.1" 200 972
+127.0.0.1 - - [25/Sep/2013:19:42:03 -0400] "GET /assets/css/facebook-app.css HTTP/1.1" 200 2561
+127.0.0.1 - - [25/Sep/2013:19:42:03 -0400] "GET /assets/css/flat-ui.css HTTP/1.1" 200 74466
+127.0.0.1 - - [25/Sep/2013:19:42:03 -0400] "GET /assets/bootstrap/css/bootstrap.css HTTP/1.1" 200 121484
+127.0.0.1 - - [25/Sep/2013:19:42:03 -0400] "GET /assets/images/triangular.png HTTP/1.1" 200 210
+127.0.0.1 - - [25/Sep/2013:19:42:03 -0400] "GET /assets/fonts/lato/lato-regular-webfont.woff HTTP/1.1" 200 35464
+127.0.0.1 - - [25/Sep/2013:19:42:03 -0400] "GET /assets/fonts/lato/lato-black-webfont.woff HTTP/1.1" 200 35048
+127.0.0.1 - - [25/Sep/2013:19:42:03 -0400] "GET /assets/fonts/lato/lato-bold-webfont.woff HTTP/1.1" 200 36664
+127.0.0.1 - - [25/Sep/2013:19:42:04 -0400] "GET /assets/fonts/lato/lato-light-webfont.woff HTTP/1.1" 200 34608
